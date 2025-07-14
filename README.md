@@ -228,8 +228,8 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 Destek
 
-- **Email**: support@culosai.com
-- **Documentation**: [docs.culosai.com](https://docs.culosai.com)
+- **Email**: hanifealtintas@gmail.com
+- **Documentation**: golensoft
 - **Issues**: GitHub Issues
 
 ## 🔄 Changelog
